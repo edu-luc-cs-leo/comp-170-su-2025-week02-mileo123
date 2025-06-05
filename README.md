@@ -1,6 +1,6 @@
 # COMP 170 SU25 WEEK 02
 
-For this week's assignment focus on last week's reading assignment and work on the following items.
+For this week's assignment focus on last week's reading assignment and work on the following items. Write your code in `week02.py`.
 
 ## Function to greet a person
 
