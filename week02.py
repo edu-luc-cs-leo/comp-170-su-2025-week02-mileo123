@@ -1,5 +1,5 @@
 // Miles Gray
-def greet(miles):
+def greet(name):
     #def defines the fucntion which is greet
-return f"Hello {miles}. How are you?"
+return f"Hello {name}. How are you?"
 
